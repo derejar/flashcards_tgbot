@@ -1,0 +1,19 @@
+{
+  "name": "flashcards_tgbot",
+  "version": "1.0.0",
+  "description": "Simple telegram bot for learning new words using flashcards",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flashcard",
+    "memory"
+  ],
+  "author": "derejar",
+  "license": "MIT",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
